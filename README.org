@@ -1,0 +1,10 @@
+* nibbles-streams
+
+Binary streams with changeable element type and endianness
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/nibbles-streams.git   |
+| commit  | a059610  |
+| systems | nibbles-streams |
+|---------+-------------------------------------------|
+
