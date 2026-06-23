@@ -7,4 +7,4 @@ Binary streams with changeable element type and endianness
 | commit  | 9f279bb                                                |
 | systems | nibbles-streams                                        |
 |---------+--------------------------------------------------------|
- 
+  
